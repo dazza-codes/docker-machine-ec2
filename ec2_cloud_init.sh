@@ -10,6 +10,7 @@ sudo apt install -y \
     git \
     gnupg2 \
     locales \
+    make \
     pass \
     software-properties-common \
     unzip \
